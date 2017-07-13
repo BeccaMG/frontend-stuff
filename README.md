@@ -52,6 +52,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [corpus](https://github.com/jamiewilson/corpus) - A collection of CSS things
 - [HTML Starterkit](http://zitrusfrisch.com/html-starterkit/) - HTML5 template to kick off your responsive websites
 - [kube](http://imperavi.com/kube/) - Minimalistic Web framework
+- [less](http://lesscss.org/) - An extension to CSS with Mixins and beyond
 - [Material Design Lite](http://www.getmdl.io/) - Material Design Lite Components in HTML/CSS/JS
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 - [Metro UI](https://metroui.org.ua/) - A front-end framework for developing website in Windows Metro Style
