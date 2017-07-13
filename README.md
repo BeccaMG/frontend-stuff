@@ -83,6 +83,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Moon](http://moonjs.ga/) - Minimal UI library 
 - [preact](https://github.com/developit/preact) - React ES6 API + Components & Virtual DOM
 - [React](https://facebook.github.io/react/) - Library for building user interfaces
+- [React Native](https://facebook.github.io/react-native/) - React for mobile apps
 - [RE:DOM](https://github.com/pakastin/redom) - Library for creating user interfaces
 - [react-lite](https://github.com/Lucifier129/react-lite) - Implementation of React that optimizes for small script size
 - [riot](http://riotjs.com/) - User interface micro-library
@@ -360,6 +361,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 **[ back to top](#table-of-contents)**
 
 ### Icons
+- [Black Tie](https://blacktie.io/) - Black Tie, from the creators of Font Awesome
 - [elegant](http://www.elegantthemes.com/blog/resources/elegant-icon-font) - Elegant Icon font
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
 - [Feather](https://feathericons.com/) - Simply beautiful open source icons
